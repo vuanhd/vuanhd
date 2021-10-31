@@ -65,7 +65,7 @@ $ RECYCLE.BIN /
 .Sự cố
 
 # Thư mục có thể được tạo trên chia sẻ AFP từ xa
-.AppleDB
+.windowsDB
 .windowsDesktop
  Thư mục Thùng rác  Mạng
  Các mặt hàng tạm thời
